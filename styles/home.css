@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(5, 2, 20);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.foto-pessoal {
+  border-radius: 100%;
+  width: 12em;
+  height: 12em;
+  border-style: solid;
+}
+
+.sobre-mim {
+  color: aliceblue;
+  font-size: 1em;
+  text-align: center;
+}
+
+.pagina-home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+.titulo {
+  font-size: 3em;
+}
+
+.sub-titulo {
+  font-size: 1em;
+}
+
+.nome {
+  color: brown;
+}
+
+a {
+  text-decoration: none;
+  color: #ffff;
+  font-size: 800;
+}
+
+a:visited {
+  color: #ffff;
+}
+
+a:hover {
+   color: #ffff;
+}
+
+a:active {
+   color: #ffff;
+}
